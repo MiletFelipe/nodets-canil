@@ -6,7 +6,6 @@ import mainRoutes from './routes/index';
 
 dotenv.config();
 
-
 const server = express();
 
 server.set("view engine", "mustache");
